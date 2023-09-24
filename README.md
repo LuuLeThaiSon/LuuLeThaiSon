@@ -1,16 +1,18 @@
-### Hi there 👋
+export const Gaboso = () => {
+  const basic = {
+    name: 'Gabriel de Carvalho',
+    city: 'Oporto',
+    role: 'Software Developer',
+  };
 
-<!--
-**LuuLeThaiSon/LuuLeThaiSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  const tech = ['Java', 'Javascript', 'React', 'React Native', 'Docker', 'Spring Boot'];
 
-Here are some ideas to get you started:
+  const hobby = {
+      soccerTeam: 'Cruzeiro',
+      tvSeries: 'Community',
+      movie: 'Back to the Future',
+      game: 'Sniper Elite 4',
+  };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return {basic, tech, hobby};
+}
