@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Gaboso/Gaboso/blob/master/github_cover.png" alt="Gaboso" />
+</p>
+
+```js
 export const Gaboso = () => {
   const basic = {
     name: 'Gabriel de Carvalho',
