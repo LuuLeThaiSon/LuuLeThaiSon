@@ -3,20 +3,20 @@
 </p>
 
 ```js
-export const Gaboso = () => {
+export const SONLLT = () => {
   const basic = {
-    name: 'Gabriel de Carvalho',
-    city: 'Oporto',
-    role: 'Software Developer',
+    name: 'Lưu Lê Thái Sơn',
+    city: 'Nghệ An',
+    role: 'Java Back-End Developer',
   };
 
-  const tech = ['Java', 'Javascript', 'React', 'React Native', 'Docker', 'Spring Boot'];
+  const tech = ['Java', 'Javascript', 'Spring Boot', 'Angular'];
 
   const hobby = {
-      soccerTeam: 'Cruzeiro',
-      tvSeries: 'Community',
-      movie: 'Back to the Future',
-      game: 'Sniper Elite 4',
+      soccerTeam: 'Real Madrid'
+      comic: 'Conan',
+      game: 'LOL',
+      freeTime:'Coffee'
   };
 
   return {basic, tech, hobby};
