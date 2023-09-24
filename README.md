@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gaboso/Gaboso/blob/master/github_cover.png" alt="Gaboso" />
+  <img src="https://www.facebook.com/photo.php?fbid=925337341151001&set=pb.100010242315173.-2207520000&type=3" />
 </p>
 
 ```js
